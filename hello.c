@@ -5,6 +5,7 @@ void main()
 		printf("new\n");
 		printf("2018-6-29");
 		printf("2018-6-30");
+		printf("2020-10-4");
 }
 
 
